@@ -1,0 +1,21 @@
+component_depth: 1
+languages:
+- java
+exclude:
+- ./bin/.*
+- ./bin/org/.*
+- ./bin/org/java/.*
+- ./bin/org/java/plugin/.*
+- ./bin/org/java/plugin/boot/.*
+- ./bin/org/java/plugin/registry/.*
+- ./bin/org/java/plugin/registry/xml/.*
+- ./bin/org/java/plugin/standard/.*
+- ./bin/org/java/plugin/tools/.*
+- ./bin/org/java/plugin/tools/ant/.*
+- ./bin/org/java/plugin/tools/docgen/.*
+- ./bin/org/java/plugin/tools/docgen/templates/.*
+- ./bin/org/java/plugin/tools/mocks/.*
+- ./bin/org/java/plugin/util/.*
+- ./jdocs/.*
+- ./jdocs/de/.*
+- ./lib/.*
